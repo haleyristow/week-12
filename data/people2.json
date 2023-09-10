@@ -1,0 +1,16 @@
+ [ 
+   {
+    "name": "Kaya Goose",
+    "email": "Kayaman@yahoo.com",
+    "phone": "530-123-4567",
+    "birthdate": "09/18/2017",
+    "id": 3
+  },
+   {
+    "name": "Man Monkey",
+    "email": "mooneygoon@gmail.com",
+    "phone": "234-987-4567",
+    "birthdate": "06/02/2017",
+    "id": 4
+  }
+ ]

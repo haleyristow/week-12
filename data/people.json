@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Haley Ristow",
+    "email": "haleyhar44@yahoo.com",
+    "phone": "530-205-5299",
+    "birthdate": "03/03/1997",
+    "id": 1
+  }, 
+  {
+    "name": "Willem Traupel",
+    "email": "wctpro@gmail.com",
+    "phone": "530-615-1102",
+    "birthdate": "11/24/1997",
+    "id": 2
+  }
+]
